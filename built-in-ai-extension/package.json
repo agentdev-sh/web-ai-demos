@@ -27,6 +27,6 @@
     "node-addon-api": "^8.9.2",
     "node-gyp": "^13.0.1",
     "prettier": "^3.9.6",
-    "vite": "^8.2.2"
+    "vite": "^8.2.4"
   }
 }
